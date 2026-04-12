@@ -121,7 +121,8 @@ Due to large size, full dataset is not uploaded on GitHub.
 ## 👩‍💻 Contributors
 
 * Diya Valand
-* [Your Friend's Name]
+* Palak Patel
+* Kanishka Soni
 
 ---
 
